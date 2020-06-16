@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "fdafasasfasf",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-16T14:39:55.901Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Wilson",
+      "id": 3
+    },
+    {
+      "firstName": "fafd",
+      "lastName": "sdfds",
+      "id": 4
+    }
+  ]
+}
