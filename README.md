@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>>> To run quickly simply type npm i
+>>> Then npm run dev
+
 
 ## Available Scripts
 
