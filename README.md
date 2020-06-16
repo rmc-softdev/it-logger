@@ -1,5 +1,4 @@
->>> To run quickly simply type npm i
->>> Then npm run dev
+>>> To run quickly simply type npm i and then npm run dev
 
 
 ## Available Scripts
